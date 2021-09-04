@@ -1,4 +1,4 @@
-# Altaya eCommerce App Flutter
+# OPEN CLASSROM COURSE App Flutter
 
 ## Built By
 
