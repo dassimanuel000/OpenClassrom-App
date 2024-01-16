@@ -5,9 +5,7 @@
 FLutter 
 By Dassi Manuel<br />
 
-<a href="mailto:manuel.dassi@2024.ucac-icam.com">manuel.dassi@2024.ucac-icam.com</a><br />
-<a href="mailto:dassi.manuel000@gmail.com">dassi.manuel000@gmail.com</a><br />
-
+ <a href="mailto:dassi.manuel000@gmail.com">dassi.manuel000@gmail.com</a><br />
 <a href="https://www.linkedin.com/in/manuel-dassi-a43bbb195/">linkedin in Manuel-Dassi </a><br />
 
 <a href="https://github.com/dassimanuel000/">Github in Manuel-Dassi </a><br />
